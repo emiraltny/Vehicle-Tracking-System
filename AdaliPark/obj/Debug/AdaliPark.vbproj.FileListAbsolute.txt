@@ -1,0 +1,14 @@
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliPark.vbproj.AssemblyReference.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliPark.vbproj.SuggestedBindingRedirects.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliPark.vbproj.GenerateResource.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliPark.vbproj.CoreCompileInputs.cache
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.exe.config
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.exe
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.pdb
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.xml
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.Form1.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.Resources.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.exe
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.xml
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.pdb
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliPark.vbproj.ResolveComReference.cache

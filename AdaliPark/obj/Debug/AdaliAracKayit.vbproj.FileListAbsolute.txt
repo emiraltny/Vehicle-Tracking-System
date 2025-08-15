@@ -1,0 +1,17 @@
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.exe.config
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.exe
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.pdb
+D:\VS Proje\AdaliPark\AdaliPark\bin\Debug\AdaliAracKayit.xml
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.vbproj.AssemblyReference.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.vbproj.ResolveComReference.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.Form1.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.Resources.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.vbproj.GenerateResource.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.vbproj.CoreCompileInputs.cache
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.exe
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.xml
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.pdb
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.CarMngmt.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.DriverMngmt.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.SecurityMngmt.resources
+D:\VS Proje\AdaliPark\AdaliPark\obj\Debug\AdaliAracKayit.exe.config
